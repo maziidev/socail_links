@@ -90,23 +90,29 @@ img {
 .main-list {
     list-style: none;
     margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
 }
 
 a {
     text-decoration: none;
 }
 
-.link-item {
+.links {
     background: var(--grey-700);
     margin-bottom: .9rem;
     padding: 1rem;
     border-radius: .5rem;
-}
-
-.links {
     color: var(--white);
     font-size: .8rem;
+    cursor: pointer;
+
 }
+
+
+
+
+
 
 footer {
     text-align: center;
