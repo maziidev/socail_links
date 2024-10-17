@@ -1,0 +1,15 @@
+{
+  "name": "social_links",
+  "version": "1.0.0",
+  "description": "display of social links just like short links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "links"
+  ],
+  "author": "maziidev",
+  "license": "ISC"
+}
